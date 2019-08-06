@@ -1,0 +1,77 @@
+{
+  "groupId": "100100",
+  "groupCreateTime": "",
+  "groupUserTime": "",
+  "groupImg": "intel_series_icon",
+  "seriesGroup": [
+    {
+      "groupId": "100100",
+      "diyId": "100101",
+      "createTime": "",
+      "useTime": "",
+      "diyLock": "unlock",
+      "unlockWay": "",
+      "imgIcon": "sea_icon",
+      "bigBorderIcon": "",
+      "smallBorderIcon": "",
+      "borderScale": null,
+      "diyElement": [
+        {
+          "imgWidth": "7",
+          "imgHeight": "7",
+          "imgUrl": "sea_border01_icon"
+        },
+        {
+          "imgWidth": "7",
+          "imgHeight": "7",
+          "imgUrl": "sea_border02_icon"
+        },
+        {
+          "imgWidth": "7",
+          "imgHeight": "7",
+          "imgUrl": "sea_border03_icon"
+        },
+        {
+          "imgWidth": "1",
+          "imgHeight": "1",
+          "imgUrl": "sea_item01_icon"
+        },
+        {
+          "imgWidth": "2",
+          "imgHeight": "1",
+          "imgUrl": "sea_item05_icon"
+        },
+        {
+          "imgWidth": "2",
+          "imgHeight": "1",
+          "imgUrl": "sea_item04_icon"
+        },
+        {
+          "imgWidth": "1",
+          "imgHeight": "2",
+          "imgUrl": "sea_item02_icon"
+        },
+        {
+          "imgWidth": "1",
+          "imgHeight": "2",
+          "imgUrl": "sea_item06_icon"
+        },
+        {
+          "imgWidth": "1",
+          "imgHeight": "3",
+          "imgUrl": "sea_item03_icon"
+        },
+        {
+          "imgWidth": "1",
+          "imgHeight": "4",
+          "imgUrl": "sea_item08_icon"
+        },
+        {
+          "imgWidth": "2",
+          "imgHeight": "2",
+          "imgUrl": "sea_item07_icon"
+        }
+      ]
+    }
+  ]
+}
